@@ -14,7 +14,7 @@ from aiogram import Bot, Dispatcher, F, types
 
 
 
-bot = Bot('7715234303:AAGBPPezu6HbdbRsO-GJ14gvuOjKBLOPfPo')
+bot = Bot('YOUR BOT TOCKen')
 dp = Dispatcher(storage=MemoryStorage())
 
 
